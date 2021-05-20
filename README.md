@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/64122408/101913604-335bb900-3be9-11eb-95e2-7b3ff01fb555.png" height=50px width=50px>&emsp;Gadget(S)pecs</h1>
+<h1 align="center"><img align="center" src="https://i.pinimg.com/originals/94/cb/04/94cb04cd8003d3ea9de061cd0272454a.png" height=80px width=100px>&emsp;Gadget(S)pecs</h1>
 <br/>
 
 <div align="center">
